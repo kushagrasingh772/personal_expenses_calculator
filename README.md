@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-in progress
+Almost done.
 
 ## Getting Started
 
